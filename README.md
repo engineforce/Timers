@@ -4,7 +4,7 @@ Timers
 Countdown timer and Stopwatch timer
 
 
-# Description
+# Descriptions
 
 A high resolution Countdown Timer and Stop Watch written in C# .NET that pop up a message box with user defined message and play user specified sound when time is up.
 
@@ -24,3 +24,8 @@ It also allow users to save, load and remove current state to/from a XML file.
 * Save, Load, Remove current state to/from a XML file
 
 
+Snapshots
+
+![Alt text](/Snapshots/CountdownTimer.png "Countdown Timer")
+
+![Alt text](/Snapshots/StopwatchTimer.png "Stopwatch Timer")
