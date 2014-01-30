@@ -1,9 +1,7 @@
 ﻿
-Microsoft Visual Studio Solution File, Format Version 11.00
-# Visual Studio 2010
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Timers", "Timers\Timers.csproj", "{35CD5A0B-A6AE-422E-898D-05450D750670}"
-EndProject
-Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "TimersSetup", "TimersSetup\TimersSetup.vdproj", "{B0178E7C-73A3-493D-88C6-CBCF76564C16}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,8 +13,6 @@ Global
 		{35CD5A0B-A6AE-422E-898D-05450D750670}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{35CD5A0B-A6AE-422E-898D-05450D750670}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{35CD5A0B-A6AE-422E-898D-05450D750670}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B0178E7C-73A3-493D-88C6-CBCF76564C16}.Debug|Any CPU.ActiveCfg = Debug
-		{B0178E7C-73A3-493D-88C6-CBCF76564C16}.Release|Any CPU.ActiveCfg = Release
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
