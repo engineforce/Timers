@@ -24,8 +24,8 @@ It also allow users to save, load and remove current state to/from a XML file.
 * Save, Load, Remove current state to/from a XML file
 
 
-Snapshots
+# Snapshots
 
-![Alt text](/Snapshots/CountdownTimer.png "Countdown Timer")
+<img src="/Snapshots/CountdownTimer.png" title="Countdown Timer" alt="Countdown Timer" style="width:200px;height:159px;">
 
-![Alt text](/Snapshots/StopwatchTimer.png "Stopwatch Timer")
+![Alt Countdown Timer](/Snapshots/StopwatchTimer.png "Stopwatch Timer")
