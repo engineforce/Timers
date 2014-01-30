@@ -27,7 +27,9 @@ It also allow users to save, load and remove current state to/from a XML file.
 # Snapshots
 
 Countdown Timer
+
 <img src="/Snapshots/CountdownTimer.png" title="Countdown Timer" alt="Countdown Timer" width="400px" height="317px">
 
 Stopwatch Timer
+
 <img src="/Snapshots/StopwatchTimer.png" title="Stopwatch Timer" alt="Stopwatch Timer" width="400px" height="317px">
