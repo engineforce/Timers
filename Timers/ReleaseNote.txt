@@ -1,0 +1,34 @@
+--- Version 102.1 (11/05/2010 12:54 PM) ---
+
+Summary:
+
+1.  Synchronize with Diagnostics.StopWatch to allow high resolution timing
+
+
+--- Version 102 (09/05/2010 11:00 AM) ---
+
+Summary:
+
+1.  A high resolution Countdown Timer and Stop Watch written in C# .NET that
+    pop up a message box with user defined message when time is up.
+2.  It use a QueueTimer (via PInvoke) for high resolution timing and
+    System.Timers.Timer for normal resolution.
+3.  Synchronize with DateTime.Now
+
+
+--- Version 103 (19/04/2012 11:50 PM) ---
+
+Summary:
+
+1.  Added functionality to play user specified sound when the time is up.
+
+
+--- Version 104 (01/05/2012 1:53 AM) ---
+
+Summary:
+
+1.  Allow user to save, load and reset current state / settings.
+
+        * State is saved to State.xml next to the executable.
+
+
